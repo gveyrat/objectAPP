@@ -1,0 +1,6 @@
+html,body {margin:0;}
+body {background-color:black;width:100vw;height:100vh;display:flex;align-items:center;justify-content:center;}
+canvas {width:600px;height:600px;}
+
+#methods {height:100vh;width:300px;position:absolute;left:0;background-color:white;}
+#method * {color:black;}
